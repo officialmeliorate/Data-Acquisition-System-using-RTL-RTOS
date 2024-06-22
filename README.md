@@ -6,10 +6,10 @@ Implementation of a data acquisition system which can monitor temperature and li
 
 are implemented in a round robin fashion with priority level set as 1. Additional details regarding the project is mentioned below:
 
-# Round Robin Timeout: 50 ms
-# System Tick: 10 ms
-# Stack Size: 200 bytes
-# Priority Level: 1
-# Scheduling Algorithm Used: Round Robin scheduling algorithm
-# Software Used: Keil uVision5
-# Microcontroller Used: LPC2148
+1] Round Robin Timeout: 50 ms
+2] System Tick: 10 ms
+3] Stack Size: 200 bytes
+4] Priority Level: 1
+5] Scheduling Algorithm Used: Round Robin scheduling algorithm
+6] Software Used: Keil uVision5
+7] Microcontroller Used: LPC2148
